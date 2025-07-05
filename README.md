@@ -17,7 +17,7 @@ I'm a software developer with a passion for building robust back-end systems and
 - 🌱 I’m currently learning about **Zero-Knowledge Proofs** and their applications.
 - 👯 I’m looking to collaborate on **Open Source Python-based Web3 tools**.
 - 💬 Ask me about **Smart Contract development, APIs, or Python best practices**.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [owenzimmew06@gmail.com](mailto:your.email@example.com)
 - 😄 Pronouns: He/Him (or your pronouns)
 
 ---
